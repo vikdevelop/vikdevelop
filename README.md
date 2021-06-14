@@ -1,4 +1,4 @@
-# vikdevelop
+# @vikdevelop
 ## Timer - jednoduchý časovač
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer)](https://github.com/vikdevelop/timer)
 ## TextEdit - Jednoduchý editor textu
