@@ -1,4 +1,6 @@
 # @vikdevelop
+## Photopea - The Best Free alternative for Adobe Photoshop users
+[![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app)](https://github.com/vikdevelop/photopea_app)
 ## Timer - jednoduchý časovač
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer)](https://github.com/vikdevelop/timer)
 ## TextEdit - Jednoduchý editor textu
