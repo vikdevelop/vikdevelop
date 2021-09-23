@@ -11,7 +11,5 @@
 [![VCalculator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=VCalculator)](https://github.com/vikdevelop/VCalculator)
 ## Calendar - jednoduchý Qt kalendář
 [![Calendar](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=calendar)](https://github.com/vikdevelop/calendar)
-# Programovací jazyky na tomto profilu
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdevelop)
-# Statistiky
+# Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vikdevelop&theme=highcontrast&show_icons=true&count_private=true)
