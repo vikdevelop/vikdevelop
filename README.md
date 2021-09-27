@@ -5,8 +5,6 @@
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer)](https://github.com/vikdevelop/timer)
 ## TextEdit - Simple text editor
 [![textedit](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=textedit)](https://github.com/vikdevelop/textedit)
-## OpenBrowser - simple QtWebView browser
-[![open-browser](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=open-browser)](https://github.com/vikdevelop/open-browser)
 ## VCalculator - simple GTK+ calculator
 [![VCalculator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=VCalculator)](https://github.com/vikdevelop/VCalculator)
 # Stats
