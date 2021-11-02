@@ -17,6 +17,6 @@
 <a href="https://github.com/vikdevelop?tab=repositories"><b>Find more repositories on this profile here →</b></a>
 
 ## Languages
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdevelop)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdevelop&theme=dark)
 ## Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=vikdevelop&theme=white&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vikdevelop&theme=dark&show_icons=true&count_private=true)
