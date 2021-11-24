@@ -3,6 +3,8 @@
 </p>
 <h1 align=center>@vikdevelop</h1>
 
+## Google Maps - Electron Webview wrapper of Google Maps webapp
+[![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps)](https://github.com/vikdevelop/googlemaps)
 ## Photopea - Webview wrapper of photopea online editor
 [![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app)](https://github.com/vikdevelop/photopea_app)
 ## Timer
