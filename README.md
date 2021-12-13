@@ -3,8 +3,6 @@
 </p>
 <h1 align=center>@vikdevelop</h1>
 
-## Google Maps - Electron Webview wrapper of Google Maps webapp
-[![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps)](https://github.com/vikdevelop/googlemaps)
 ## Photopea - Webview wrapper of photopea online editor
 [![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app)](https://github.com/vikdevelop/photopea_app)
 ## Timer
@@ -13,8 +11,8 @@
 [![textedit](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=textedit)](https://github.com/vikdevelop/textedit)
 ## VCalculator - simple GTK+ calculator
 [![VCalculator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=VCalculator)](https://github.com/vikdevelop/VCalculator)
-## Lightly Glass - Glass color scheme for Lightly Qt style
-[![Lightly Glass](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=lightly-glass)](https://github.com/vikdevelop/lightly-glass)
+## Google Maps - Electron Webview wrapper of Google Maps webapp
+[![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps)](https://github.com/vikdevelop/googlemaps)
 
 <a href="https://github.com/vikdevelop?tab=repositories"><b>Find more repositories on this profile here →</b></a>
 
