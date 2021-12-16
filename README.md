@@ -1,7 +1,7 @@
 <p align=center>
   <img align="center" width="128" height="128" src="https://avatars.githubusercontent.com/u/83600218?s=400&u=8f71453ac1cc3bc27e40f3d1e79fc59734f33193&v=4">
 </p>
-<h1 align=center>@cylinuxcz</h1>
+<h1 align=center>@vikdevelop</h1>
 
 ## Photopea - Webview wrapper of photopea online editor
 [![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app)](https://github.com/vikdevelop/photopea_app)
