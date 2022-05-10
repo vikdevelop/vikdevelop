@@ -15,14 +15,14 @@
 [![VCalculator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=VCalculator)](https://github.com/vikdevelop/VCalculator)
 ## Google Maps - Electron Webview wrapper of Google Maps webapp
 [![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps)](https://github.com/vikdevelop/googlemaps)
-## Canva - Electron App for Linux (electron-wrapper)
+## Canva (electron-wrapper)
 [![canvadesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop)](https://github.com/vikdevelop/canvadesktop)
 ## Pempot - The Open-Source design & prototyping platform (electron wrapper)
 [![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot)](https://github.com/vikdevelop/penpot)
 ## apm - Simple CLI AppImage Package Manager
 [![apm](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=apm)](https://github.com/vikdevelop/apm)
 ## Packages Backupper - simple backupping packages on Linux
-[![packages_backupper](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop)](https://github.com/vikdevelop/packages_backupper)
+[![packages_backupper](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=packages_backupper)](https://github.com/vikdevelop/packages_backupper)
 
 
 <a href="https://github.com/vikdevelop?tab=repositories"><b>Find more repositories on this profile here →</b></a>
