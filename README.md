@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>@vikdevelop</h1>
 
-## Photopea - Webview wrapper of photopea online editor
+## Photopea - electron + webkitGTK wrapper of photopea online editor
 [![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app)](https://github.com/vikdevelop/photopea_app)
 ## Timer
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer)](https://github.com/vikdevelop/timer)
@@ -17,8 +17,10 @@
 [![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps)](https://github.com/vikdevelop/googlemaps)
 ## Canva (electron-wrapper)
 [![canvadesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop)](https://github.com/vikdevelop/canvadesktop)
-## Pempot - The Open-Source design & prototyping platform (electron wrapper)
+## Penpot - The Open-Source design & prototyping platform (electron wrapper)
 [![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot)](https://github.com/vikdevelop/penpot)
+## fedora-postconfig - simple Python script for post-configuration of Fedora Linux distro
+[![fedora-postconfig](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=fedora-postconfig)](https://github.com/vikdevelop/fedora-postconfig)
 ## apm - Simple CLI AppImage Package Manager
 [![apm](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=apm)](https://github.com/vikdevelop/apm)
 ## Packages Backupper - simple backupping packages on Linux
