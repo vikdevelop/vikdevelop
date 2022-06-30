@@ -7,22 +7,20 @@
 [![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app)](https://github.com/vikdevelop/photopea_app)
 ## Timer
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer)](https://github.com/vikdevelop/timer)
-## TextEdit - Simple text editor
-[![textedit](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=textedit)](https://github.com/vikdevelop/textedit)
-## Python Packager - create Python Package simply.
-[![textedit](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=python-packager)](https://github.com/vikdevelop/python-packager)
 ## VCalculator - simple GTK+ calculator
 [![VCalculator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=VCalculator)](https://github.com/vikdevelop/VCalculator)
+## fedora-postinstall-config - simple Python script for post-configuration of Fedora Linux distro
+[![fedora-postconfig](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=fedora-postconfig)](https://github.com/vikdevelop/fedora-postconfig)
+## apm - Simple CLI AppImage Package Manager
+[![apm](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=apm)](https://github.com/vikdevelop/apm)
 ## Google Maps - Electron Webview wrapper of Google Maps webapp
 [![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps)](https://github.com/vikdevelop/googlemaps)
 ## Canva (electron-wrapper)
 [![canvadesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop)](https://github.com/vikdevelop/canvadesktop)
 ## Penpot - The Open-Source design & prototyping platform (electron wrapper)
 [![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot)](https://github.com/vikdevelop/penpot)
-## fedora-postconfig - simple Python script for post-configuration of Fedora Linux distro
-[![fedora-postconfig](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=fedora-postconfig)](https://github.com/vikdevelop/fedora-postconfig)
-## apm - Simple CLI AppImage Package Manager
-[![apm](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=apm)](https://github.com/vikdevelop/apm)
+## Python Packager - create Python Package simply.
+[![textedit](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=python-packager)](https://github.com/vikdevelop/python-packager)
 ## Packages Backupper - simple backupping packages on Linux
 [![packages_backupper](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=packages_backupper)](https://github.com/vikdevelop/packages_backupper)
 
