@@ -5,6 +5,8 @@
 
 ## Photopea - electron + webkitGTK wrapper of photopea online editor
 [![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app)](https://github.com/vikdevelop/photopea_app)
+## Penpot - The Open-Source design & prototyping platform (electron wrapper)
+[![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot)](https://github.com/vikdevelop/penpot)
 ## Timer
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer)](https://github.com/vikdevelop/timer)
 ## VCalculator - simple GTK+ calculator
@@ -17,8 +19,6 @@
 [![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps)](https://github.com/vikdevelop/googlemaps)
 ## Canva (electron-wrapper)
 [![canvadesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop)](https://github.com/vikdevelop/canvadesktop)
-## Penpot - The Open-Source design & prototyping platform (electron wrapper)
-[![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot)](https://github.com/vikdevelop/penpot)
 ## Python Packager - create Python Package simply.
 [![textedit](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=python-packager)](https://github.com/vikdevelop/python-packager)
 ## Packages Backupper - simple backupping packages on Linux
