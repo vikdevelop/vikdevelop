@@ -4,30 +4,24 @@
 <h1 align=center>@vikdevelop</h1>
 
 ## Photopea - electron + webkitGTK wrapper of photopea online editor
-[![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app)](https://github.com/vikdevelop/photopea_app)
+[![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app&theme=github_dark)](https://github.com/vikdevelop/photopea_app)
 ## Penpot - The Open-Source design & prototyping platform (electron wrapper)
-[![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot)](https://github.com/vikdevelop/penpot)
+[![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot&theme=github_dark)](https://github.com/vikdevelop/penpot)
 ## Timer
-[![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer)](https://github.com/vikdevelop/timer)
-## VCalculator - simple GTK+ calculator
-[![VCalculator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=VCalculator)](https://github.com/vikdevelop/VCalculator)
+[![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer&theme=github_dark)](https://github.com/vikdevelop/timer)
 ## fedora-postinstall-config - simple Python script for post-configuration of Fedora Linux distro
-[![fedora-postconfig](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=fedora-postconfig)](https://github.com/vikdevelop/fedora-postconfig)
+[![fedora-postconfig](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=fedora-postconfig&theme=github_dark)](https://github.com/vikdevelop/fedora-postconfig)
 ## apm - Simple CLI AppImage Package Manager
-[![apm](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=apm)](https://github.com/vikdevelop/apm)
+[![apm](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=apm&theme=github_dark)](https://github.com/vikdevelop/apm)
 ## Google Maps - Electron Webview wrapper of Google Maps webapp
-[![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps)](https://github.com/vikdevelop/googlemaps)
+[![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps&theme=github_dark)](https://github.com/vikdevelop/googlemaps)
 ## Canva (electron-wrapper)
-[![canvadesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop)](https://github.com/vikdevelop/canvadesktop)
-## Python Packager - create Python Package simply.
-[![textedit](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=python-packager)](https://github.com/vikdevelop/python-packager)
-## Packages Backupper - simple backupping packages on Linux
-[![packages_backupper](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=packages_backupper)](https://github.com/vikdevelop/packages_backupper)
+[![canvadesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop&theme=github_dark)](https://github.com/vikdevelop/canvadesktop)
 
 
 <a href="https://github.com/vikdevelop?tab=repositories"><b>Find more repositories on this profile here →</b></a>
 
 ## Languages
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdevelop&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdevelop&hide=meson,cmake&exlude_repo=duckduckgo-browser&theme=github_dark)
 ## Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=vikdevelop&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vikdevelop&theme=github_dark&show_icons=true&count_private=true)
