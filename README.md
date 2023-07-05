@@ -2,12 +2,21 @@
   <img align="center" width="128" height="128" src="https://avatars.githubusercontent.com/u/83600218?s=400&u=d30959d4727970aa7701bdf8a7f862313fca56fb&v=4">
 </p>
 <h1 align=center>@vikdevelop</h1>
-<i>Apps with this characterized properties:</i>
-<p align=center>Open source - Python - JavaScript - GTK4 - LibAdwaita - Electron - CLI - Flatpak</h1>
-
-<a href="https://hosted.weblate.org/user/vikdevelop/" align="center"><img src="https://weblate.myspreadshop.net/100652156/shopData/images/logo/Logo-Darktext_i0njoy.svg" height="64" width="120"></a>
 
 </div>
+
+# My system
+**Used Linux distro:** Fedora Linux 38 Workstation
+
+**Used Desktop Environment:** GNOME 44 (Wayland)
+
+**Used Web browser:** Mozilla Firefox (Flatpak)
+
+**Used icons:** Tela circle blue
+
+**Used theme:** LibAdwaita (Gtk4), Adw-Gtk3 (Gtk3)
+
+**Used GNOME Shell extensions:** Dock from dash, Blur my shell, Clipboard indicator, GSConnect, Just perfection, Night theme switcher, Sound percentage
 
 # My apps
 ## GTK apps
@@ -19,10 +28,17 @@ Save your Desktop environment configuration with one click
 Simple Contdown timer
 
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer&theme=transparent)](https://github.com/vikdevelop/timer)
+
+### Desktop Link Creator
+Create a desktop shortcut for opening your favorite website in the browser 
+
+[![desktoplinkcreator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=DesktopLinkCreator&theme=transparent)](https://github.com/vikdevelop/DesktopLinkCreator)
+
 ### Binary translator
 Translate text to binary and vice versa.
 
 [![btranslator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=BinaryTranslator&theme=transparent)](https://github.com/vikdevelop/BinaryTranslator)
+
 ### VCalculator
 Simple calculator
 
