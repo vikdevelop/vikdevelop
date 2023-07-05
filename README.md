@@ -5,18 +5,12 @@
 
 </div>
 
-# My system
-**Used Linux distro:** Fedora Linux 38 Workstation
+Currently, I'm using Fedora Linux 38 Workstation with GNOME 44 🖥️.
+I started using 🐧Linux in 2020; it was about Linux Mint Cinnamon, and I've been 👨‍💻 coding since the end of 2021.
 
-**Used Desktop Environment:** GNOME 44 (Wayland)
+My favorite programming language is Python, and my favorite libraries are Gtk and LibAdwaita.
 
-**Used Web browser:** Mozilla Firefox (Flatpak)
-
-**Used icons:** Tela circle blue
-
-**Used theme:** LibAdwaita (Gtk4), Adw-Gtk3 (Gtk3)
-
-**Used GNOME Shell extensions:** Dock from dash, Blur my shell, Clipboard indicator, GSConnect, Just perfection, Night theme switcher, Sound percentage
+In addition to coding, I contribute Czech translations to many open source projects.
 
 # My apps
 ## GTK apps
