@@ -23,20 +23,16 @@ Simple Contdown timer
 
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer&theme=transparent)](https://github.com/vikdevelop/timer)
 
-### Desktop Link Creator
-Create a desktop shortcut for opening your favorite website in the browser 
-
-[![desktoplinkcreator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=DesktopLinkCreator&theme=transparent)](https://github.com/vikdevelop/DesktopLinkCreator)
-
 ### Binary translator
 Translate text to binary and vice versa.
 
 [![btranslator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=BinaryTranslator&theme=transparent)](https://github.com/vikdevelop/BinaryTranslator)
 
-### VCalculator
-Simple calculator
+### Desktop Link Creator
+Create a desktop shortcut for opening your favorite website in the browser 
 
-[![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=VCalculator&theme=transparent)](https://github.com/vikdevelop/VCalculator)
+[![desktoplinkcreator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=DesktopLinkCreator&theme=transparent)](https://github.com/vikdevelop/DesktopLinkCreator)
+
 ## Electron apps
 ### Photopea
 electron + webkitGTK wrapper of photopea online editor
