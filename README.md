@@ -5,7 +5,7 @@
 
 </div>
 
-Currently, I'm using Fedora Linux 38 Workstation with GNOME 44 🖥️.
+Currently, I'm using Fedora Linux Workstation with GNOME 🖥️ in the latest version.
 I started using 🐧Linux in 2020; it was about Linux Mint Cinnamon, and I've been 👨‍💻 coding since the end of 2021.
 
 My favorite programming language is Python, and my favorite libraries are Gtk and LibAdwaita.
