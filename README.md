@@ -42,10 +42,7 @@ electron + webkitGTK wrapper of photopea online editor
 The Open-Source design & prototyping platform (electron wrapper)
 
 [![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot&theme=transparent)](https://github.com/vikdevelop/penpot)
-### Google Maps
-Electron Webview wrapper of Google Maps webapp
 
-[![googlemaps](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=googlemaps&theme=transparent)](https://github.com/vikdevelop/googlemaps)
 ### Canva
 Electron wrapper of Canva webapp
 
