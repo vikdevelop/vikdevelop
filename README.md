@@ -5,21 +5,23 @@
 
 </div>
 
-Currently, I'm using Fedora Linux Workstation with GNOME 🖥️ in the latest version.
-I started using 🐧Linux in 2020; it was about Linux Mint Cinnamon, and I've been 👨‍💻 coding since the end of 2021.
+# About Me
+I am a Linux software enthusiast from Czechia who develops primarily the graphical applications for the GNOME platform, in my spare time.
 
 My favorite programming language is Python, and my favorite libraries are Gtk and LibAdwaita.
-
 In addition to coding, I contribute Czech translations to many open source projects.
 
-# My apps
-## GTK apps
+In terms of the Linux distribution used, I'm using Fedora Silverblue with GNOME 🖥️ in the latest version.
+I started using 🐧Linux in 2020; it was about Linux Mint Cinnamon, and I've been 👨‍💻 coding since the end of 2021.
+
+# My Apps
+## GTK Apps
 ### SaveDesktop
-Save your Desktop environment configuration with one click
+Save your desktop environment configuration with one click
 
 [![savedesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=savedesktop&theme=transparent)](https://github.com/vikdevelop/savedesktop)
 ### Timer
-Simple Contdown timer
+Simple Contdown Timer
 
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer&theme=transparent)](https://github.com/vikdevelop/timer)
 
@@ -33,27 +35,27 @@ Create a desktop shortcut for opening your favorite website in the browser
 
 [![desktoplinkcreator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=DesktopLinkCreator&theme=transparent)](https://github.com/vikdevelop/DesktopLinkCreator)
 
-## Electron apps
+## Electron Apps
 ### Photopea
-electron + webkitGTK wrapper of photopea online editor
+Electron and WebkitGTK wrapper of the Photopea online editor
 
 [![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app&theme=transparent)](https://github.com/vikdevelop/photopea_app)
 ### Penpot
-The Open-Source design & prototyping platform (electron wrapper)
+The Open-Source design & prototyping platform (Electron wrapper)
 
 [![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot&theme=transparent)](https://github.com/vikdevelop/penpot)
 
 ### Canva
-Electron wrapper of Canva webapp
+Electron wrapper of the Canva web application
 
 [![canvadesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop&theme=transparent)](https://github.com/vikdevelop/canvadesktop)
-## CLI apps
+## CLI Apps
 ### apm
 Simple CLI AppImage Package Manager
 
 [![apm](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=apm&theme=transparent)](https://github.com/vikdevelop/apm)
 ### fedora-postinstall-config
-Simple Python script for post-configuration of Fedora Linux distro
+Simple Python script for post-configuration of the Fedora Linux distro
 
 [![fedora-postconfig](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=fedora-postconfig&theme=transparent)](https://github.com/vikdevelop/fedora-postconfig)
 
