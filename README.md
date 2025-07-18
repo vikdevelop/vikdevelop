@@ -1,6 +1,7 @@
 <div align=center>
-  <img align="center" width="128" height="128" src="https://avatars.githubusercontent.com/u/83600218?s=400&u=d30959d4727970aa7701bdf8a7f862313fca56fb&v=4" style="border-radius: 50%;">
-<h1 align=center>@vikdevelop</h1>
+  <img align="center" width="128" height="128" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83600218?s=400&u=d30959d4727970aa7701bdf8a7f862313fca56fb&v=4&h=128&w=128&fit=cover&mask=circle&maxage=7d">
+<h1 align=center><i>vikdevelop</i></h1>
+
 </div>
 
 # About Me
