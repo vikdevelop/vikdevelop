@@ -13,6 +13,9 @@ In addition to coding, I contribute Czech translations to many open source proje
 In terms of the Linux distribution used, I'm using Fedora Silverblue with GNOME 🖥️ in the latest version.
 I started using 🐧Linux in 2020; it was about Linux Mint Cinnamon, and I've been 👨‍💻 coding since the end of 2021.
 
+## Contact
+#### ✉️ vikdevelop@proton.me
+
 # My Apps
 ## GTK Apps
 ### SaveDesktop
@@ -20,7 +23,7 @@ Save your desktop environment configuration with one click
 
 [![savedesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=savedesktop&theme=transparent)](https://github.com/vikdevelop/savedesktop)
 ### Timer
-Simple Contdown Timer
+Simple Countdown Timer
 
 [![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer&theme=transparent)](https://github.com/vikdevelop/timer)
 
