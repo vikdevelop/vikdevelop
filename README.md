@@ -16,55 +16,50 @@ I started using 🐧Linux in 2020; it was about Linux Mint Cinnamon, and I've be
 ## Contact
 #### ✉️ vikdevelop@proton.me
 
+# Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vikdevelop?cardType=level&fontFamily=Actor&preferLogin=false)](https://git.io/awesome-stats-card)
+
 # My Apps
 ## GTK Apps
 ### SaveDesktop
 Save your desktop environment configuration with one click
 
-[![savedesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=savedesktop&theme=transparent)](https://github.com/vikdevelop/savedesktop)
+[![vikdevelop/savedesktop - GitHub](https://gh-card.dev/repos/vikdevelop/savedesktop.svg)](https://github.com/vikdevelop/savedesktop)
 ### Timer
 Simple Countdown Timer
 
-[![timer](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=timer&theme=transparent)](https://github.com/vikdevelop/timer)
+[![vikdevelop/timer - GitHub](https://gh-card.dev/repos/vikdevelop/timer.svg)](https://github.com/vikdevelop/timer)
 
 ### Binary translator
 Translate text to binary and vice versa.
 
-[![btranslator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=BinaryTranslator&theme=transparent)](https://github.com/vikdevelop/BinaryTranslator)
+[![vikdevelop/BinaryTranslator - GitHub](https://gh-card.dev/repos/vikdevelop/BinaryTranslator.svg)](https://github.com/vikdevelop/BinaryTranslator)
 
 ### Desktop Link Creator
 Create a desktop shortcut for opening your favorite website in the browser 
 
-[![desktoplinkcreator](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=DesktopLinkCreator&theme=transparent)](https://github.com/vikdevelop/DesktopLinkCreator)
+[![vikdevelop/DesktopLinkCreator - GitHub](https://gh-card.dev/repos/vikdevelop/DesktopLinkCreator.svg)](https://github.com/vikdevelop/DesktopLinkCreator)
 
 ## Electron Apps
-### Photopea
+### Photocrea (photopea_app)
 Electron and WebkitGTK wrapper of the Photopea online editor
 
-[![photopea_app](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=photopea_app&theme=transparent)](https://github.com/vikdevelop/photopea_app)
+[![vikdevelop/photopea_app - GitHub](https://gh-card.dev/repos/vikdevelop/photopea_app.svg)](https://github.com/vikdevelop/photopea_app)
 ### Penpot
 The Open-Source design & prototyping platform (Electron wrapper)
 
-[![penpot](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=penpot&theme=transparent)](https://github.com/vikdevelop/penpot)
+[![vikdevelop/penpot-electron - GitHub](https://gh-card.dev/repos/vikdevelop/penpot-electron.svg)](https://github.com/vikdevelop/penpot-electron)
 
 ### Canva
 Electron wrapper of the Canva web application
 
-[![canvadesktop](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=canvadesktop&theme=transparent)](https://github.com/vikdevelop/canvadesktop)
+[![vikdevelop/canvadesktop - GitHub](https://gh-card.dev/repos/vikdevelop/canvadesktop.svg)](https://github.com/vikdevelop/canvadesktop)
 ## CLI Apps
 ### apm
 Simple CLI AppImage Package Manager
 
-[![apm](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=apm&theme=transparent)](https://github.com/vikdevelop/apm)
+[![vikdevelop/apm - GitHub](https://gh-card.dev/repos/vikdevelop/apm.svg)](https://github.com/vikdevelop/apm)
 ### fedora-postinstall-config
 Simple Python script for post-configuration of the Fedora Linux distro
 
-[![fedora-postconfig](https://github-readme-stats.vercel.app/api/pin/?username=vikdevelop&repo=fedora-postconfig&theme=transparent)](https://github.com/vikdevelop/fedora-postconfig)
-
-# Stats
-
-## General stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=vikdevelop&theme=transparent&show_icons=true&count_private=true)
-
-## Language stats
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vikdevelop&exclude_repo=duckduckgo-browser&hide=cmake&theme=transparent)
+[![vikdevelop/fedora-postinstall-config - GitHub](https://gh-card.dev/repos/vikdevelop/fedora-postinstall-config.svg)](https://github.com/vikdevelop/fedora-postinstall-config)
